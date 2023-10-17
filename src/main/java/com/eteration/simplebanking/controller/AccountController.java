@@ -1,7 +1,5 @@
 package com.eteration.simplebanking.controller;
 
-import com.eteration.simplebanking.model.payload.response.AccountResponsePayload;
-import com.eteration.simplebanking.model.payload.response.creditResponsePayload;
 import com.eteration.simplebanking.services.AccountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
